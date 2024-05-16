@@ -1,0 +1,136 @@
+{
+  "dir_name": "file_utils",
+  "total_size": 34913,
+  "files": {
+    ".gitignore": 3078,
+    "LICENSE": 1075,
+    "README.md": 14,
+    "requirements.txt": 15,
+    "size.py": 1362
+  },
+  "dirs": {
+    ".git": {
+      "dir_name": ".git",
+      "total_size": 29369,
+      "files": {
+        "config": 282,
+        "description": 73,
+        "FETCH_HEAD": 97,
+        "HEAD": 21,
+        "index": 217,
+        "packed-refs": 112
+      },
+      "dirs": {
+        "hooks": {
+          "dir_name": "hooks",
+          "total_size": 23513,
+          "files": {
+            "applypatch-msg.sample": 478,
+            "commit-msg.sample": 896,
+            "fsmonitor-watchman.sample": 4726,
+            "post-update.sample": 189,
+            "pre-applypatch.sample": 424,
+            "pre-commit.sample": 1643,
+            "pre-merge-commit.sample": 416,
+            "pre-push.sample": 1374,
+            "pre-rebase.sample": 4898,
+            "pre-receive.sample": 544,
+            "prepare-commit-msg.sample": 1492,
+            "push-to-checkout.sample": 2783,
+            "update.sample": 3650
+          }
+        },
+        "info": {
+          "dir_name": "info",
+          "total_size": 240,
+          "files": {
+            "exclude": 240
+          }
+        },
+        "logs": {
+          "dir_name": "logs",
+          "total_size": 543,
+          "files": {
+            "HEAD": 181
+          },
+          "dirs": {
+            "refs": {
+              "dir_name": "refs",
+              "total_size": 362,
+              "dirs": {
+                "heads": {
+                  "dir_name": "heads",
+                  "total_size": 181,
+                  "files": {
+                    "main": 181
+                  }
+                },
+                "remotes": {
+                  "dir_name": "remotes",
+                  "total_size": 181,
+                  "dirs": {
+                    "origin": {
+                      "dir_name": "origin",
+                      "total_size": 181,
+                      "files": {
+                        "HEAD": 181
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "objects": {
+          "dir_name": "objects",
+          "total_size": 4200,
+          "dirs": {
+            "info": {
+              "dir_name": "info",
+              "total_size": 0
+            },
+            "pack": {
+              "dir_name": "pack",
+              "total_size": 4200,
+              "files": {
+                "pack-e331b091acb4fb113477da21e09c7b9a8f02939f.idx": 1184,
+                "pack-e331b091acb4fb113477da21e09c7b9a8f02939f.pack": 3016
+              }
+            }
+          }
+        },
+        "refs": {
+          "dir_name": "refs",
+          "total_size": 71,
+          "dirs": {
+            "heads": {
+              "dir_name": "heads",
+              "total_size": 41,
+              "files": {
+                "main": 41
+              }
+            },
+            "remotes": {
+              "dir_name": "remotes",
+              "total_size": 30,
+              "dirs": {
+                "origin": {
+                  "dir_name": "origin",
+                  "total_size": 30,
+                  "files": {
+                    "HEAD": 30
+                  }
+                }
+              }
+            },
+            "tags": {
+              "dir_name": "tags",
+              "total_size": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}
